@@ -318,7 +318,7 @@ body{
 img {
     width: 100%;
     max-width: 500px;
-    min-width: 250px;
+    min-width: 230px;
     height: auto;
     margin-top: 160px;
     margin-bottom: -5px;
@@ -638,8 +638,7 @@ img {
 }
 @media screen and (max-width:400px){
     .container{
-    margin: 0px;
-    padding: 0px;}
+    margin: 0px;}
     .container-project .card .img1{
     width: 300px;
     height: 260px;

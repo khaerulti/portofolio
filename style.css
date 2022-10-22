@@ -314,10 +314,11 @@ body{
     font-size: 50px;
 }
 
-.rows-header .row .img img {
+.rows-header .row .
+img {
     width: 100%;
     max-width: 500px;
-    min-width: 270px;
+    min-width: 250px;
     height: auto;
     margin-top: 160px;
     margin-bottom: -5px;
